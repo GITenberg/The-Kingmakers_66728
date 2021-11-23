@@ -8,6 +8,9 @@ contributor:
     deathdate: 1963
     gutenberg_agent_id: '31826'
     url: http://www.gutenberg.org/2009/agents/31826
+covers:
+- cover_type: archival
+  image_path: 66728-h/images/cover.jpg
 creator:
   author:
     agent_name: Stevenson, Burton Egbert
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/980
     wikipedia: https://en.wikipedia.org/wiki/Burton_Egbert_Stevenson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66728#The-Kingmakers
 gutenberg_issued: '2021-11-14'
 identifiers:
   gutenberg: '66728'
